@@ -2,7 +2,7 @@
 
 ## Bienvenue!
 
-Vous entrez dans l'univers (TTS)[www.tts-cables.com] pour la conception de cables secteurs.
+Vous entrez dans l'univers [TTS](www.tts-cables.com) pour la conception de cables secteurs.
 
 ** Site en construction **
 
@@ -20,6 +20,6 @@ Leur fabrication requiert toutefois un soin très élevé et jusqu'à plus de 10
 
 ## Déclinaison des cables secteurs
 
-- TTS Legacy Addict - Architecture triple blindage pour un silence de fonctionnement exemplaire, Fil de Litz Legacy pour un naturels de timbres de haut niveau. (Accéder aux schémas ici)[]
+- TTS Legacy Addict - Architecture triple blindage pour un silence de fonctionnement exemplaire, Fil de Litz Legacy pour un naturels de timbres de haut niveau. [Accéder aux schémas ici]().
 - TTS Legacy Mini - Moins de blindage mais toujours les qualités du cablage "Legacy". A venir...
 - TTS Providers Addict - Remplacement du fil de Litz Legacy par du fil de cablage audio plus courant. A venir...
