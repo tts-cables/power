@@ -6,7 +6,7 @@ Vous entrez dans l'univers [TTS](www.tts-cables.com) pour la conception de cable
 
 ** Site en construction **
 
-Ce repository est maintenus par des passionnés souhaitant partager leur expérience de recettes de montage de cables procurant un réel plaisir à l'écoute de nos systèmes hifi.
+Ce repository est maintenus par des passionnés souhaitant partager leur expérience de recettes réussies dans le montage de cables. La réussite étant caractérisée par un réel plaisir à l'écoute de nos systèmes hifi optimisés avec ces cables.
 
 L'optimisation d'un système, quelque soit son prix, passe par un choix judicieux des cables qui l'alimentent.
 
