@@ -2,9 +2,7 @@
 
 ## Bienvenue!
 
-Vous entrez dans l'univers [TTS](www.tts-cables.com) pour la conception des cables secteurs **Addict Legacy**.
-
-** Site en construction **
+Vous entrez dans l'univers [TTS](www.tts-cables.com) (en construction...) pour la conception des cables secteurs **Addict Legacy**.
 
 Ce repository est maintenus par des passionnés souhaitant partager leur expérience de recettes réussies dans le montage de cables. La réussite étant caractérisée par un réel plaisir à l'écoute de nos systèmes hifi optimisés avec ces cables.
 
