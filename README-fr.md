@@ -1,5 +1,9 @@
 # TTS Power Cables
 
+**T.T.** les initiale de la personne qui nous a permis de lui acheter le fil de cablage d'où tout est parti.
+
+**S** pour **S**hielded, blindé.
+
 ## Bienvenue!
 
 Vous entrez dans l'univers [TTS](www.tts-cables.com) (en construction...) pour la conception des cables secteurs **Addict Legacy**.
@@ -29,7 +33,7 @@ Le fil de Litz utilisé dans la gamme "Legacy" provient d'une ancienne bobine do
 
 Les cables Legacy auront donc un volume de fabrication et ne pourront être fabriqué que par notre équipe (les administrateurs de ce repository).
 
-Nous travaillerons à poursuivre l'aventure TTS avec d'autres alternatives de cuivre ou métaux mais ce qui les Legacy resteront très certainement uniques.
+Nous travaillerons à poursuivre l'aventure TTS avec d'autres alternatives de cuivre ou métaux mais versions "Legacy" resteront très certainement uniques.
 
 ## Déclinaisons des cables secteurs
 
