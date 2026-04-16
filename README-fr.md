@@ -33,7 +33,7 @@ Le fil de Litz utilisé dans la gamme "Legacy" provient d'une ancienne bobine do
 
 Les cables Legacy auront donc un volume de fabrication limité et ne pourront être fabriqué que par notre équipe.
 
-Nous travaillerons à poursuivre l'aventure TTS avec d'autres alternatives de cuivre ou métaux mais versions "Legacy" resteront très certainement uniques.
+Nous travaillerons à poursuivre l'aventure TTS avec d'autres alternatives de cuivre ou métaux mais les versions "Legacy" resteront très certainement uniques.
 
 ## Déclinaisons des cables secteurs
 
