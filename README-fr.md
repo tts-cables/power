@@ -31,7 +31,7 @@ Leur fabrication requiert toutefois un soin très élevé et jusqu'à plus de 10
 
 Le fil de Litz utilisé dans la gamme "Legacy" provient d'une ancienne bobine dont nous connaissons le fabricant mais dont le cahier des charges a été perdu, l'origine du cuivre est incertaine mais la qualité et le niveau de performance obtenu avec ce cuivre est maintenant certain :-).
 
-Les cables Legacy auront donc un volume de fabrication et ne pourront être fabriqué que par notre équipe (les administrateurs de ce repository).
+Les cables Legacy auront donc un volume de fabrication limité et ne pourront être fabriqué que par notre équipe.
 
 Nous travaillerons à poursuivre l'aventure TTS avec d'autres alternatives de cuivre ou métaux mais versions "Legacy" resteront très certainement uniques.
 
